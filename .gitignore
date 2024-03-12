@@ -1,3 +1,6 @@
 denoiserWeightsCheckpoint.pth
 denoiserModelBestWeights.pth
 denoiserFinalWeights.pth
+denoiserWeightsCheckpointEarlyStopped.pth
+denoiserModelBestWeightsEarlyStopped.pth
+denoiserFinalWeightsEarlyStopped.pth
