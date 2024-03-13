@@ -7,7 +7,7 @@ Without Early Stopping Performance:<br>
 ![](readmeimages/unetPsnrGraph.png)
 ![](readmeimages/unetSsimGraph.png)
 ![](readmeimages/unetLossGraph.png)
-![](readmeimages/UNetESTestingResults.png)
+![](readmeimages/UNetTestingResults.png)
 
 
 With Early Stopping Performance:<br>
