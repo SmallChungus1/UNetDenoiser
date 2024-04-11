@@ -7,3 +7,6 @@ denoiserFinalWeightsEarlyStopped.pth
 denoiserWeightsCheckpointNoReg.pth
 denoiserModelBestWeightsNoReg.pth
 denoiserFinalWeightsNoReg.pth
+denoiserWeightsCheckpointwNoiseMap.pth
+denoiserModelBestWeightswNoiseMap.pth
+denoiserFinalWeightswNoiseMap.pth
